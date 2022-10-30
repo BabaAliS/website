@@ -1,2 +1,2 @@
-FROM webapp
+FROM apache
 ADD . /var/www/html
