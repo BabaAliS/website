@@ -1,2 +1,2 @@
-FROM ubuntu
+FROM webapp
 ADD . /var/www/html
